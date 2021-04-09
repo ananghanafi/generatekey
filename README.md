@@ -1,2 +1,2 @@
 # generatekey
-ananghanafi.github.io/generatekey
+https://ananghanafi.github.io/generatekey/
